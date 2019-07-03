@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneCatcher</string>
+
+    <string name="notification_channel_id">hebleck_notification_channel</string>
+    <string name="calling_searching_title">수신/발신번호 검색중</string>
+    <string name="calling_searching_msg">전화번호가 피해사례에 등록되어있는지 검색중입니다...</string>
+    <string name="calling_popup_title">피해가 우려되는 전화번호</string>
+    <string name="calling_popup_msg">전화번호가 피해사례에 등록되어 있습니다.</string>
+</resources>
